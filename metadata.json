@@ -1,0 +1,5 @@
+{
+  "name": "Zerodha AI Trader Dashboard",
+  "description": "A real-time monitoring dashboard for the Zerodha Intraday AI Trader scaffold, visualizing signals, trade plans, and P&L.",
+  "requestFramePermissions": []
+}
